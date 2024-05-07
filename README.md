@@ -44,3 +44,7 @@ $\frac {8} {64} + \frac {12} {64} = \frac {20} {64}$.
 The probability of getting a good pivot would be $\frac {64} {64} - \frac {20} {64} = \frac {44} {64} =$ 68.75%.
 
 The method of median-of-three has a higher probability of choosing a good pivot with 68.75% when compared to simply choosing the first element with 50%.
+
+
+
+Utilized AI to gain a better understanding of the possible permutations.
